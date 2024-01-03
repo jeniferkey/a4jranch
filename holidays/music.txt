@@ -1,0 +1,12 @@
+<a href="yourmusicfile.mid">Play background music</a> 
+
+
+
+<embed src="yourmusicfile.mid" autostart="true" loop="true"
+width="2" height="0">
+</embed>
+<noembed>
+<bgsound src="yourmusicfile.mid" loop="infinite">
+</noembed>
+
+

@@ -1,0 +1,12 @@
+<a href="http://www.wunderground.com/US/WI/Port_Washington.html?
+bannertypeclick=smalltemptr">
+<img src="http://weathersticker.wunderground.com/weathersticker/smalltemptr/language/
+www/US/WI/Port_Washington.gif" alt="Click for Port Washington, Wisconsin Forecast" 
+border="0" height="28" width="53" /></a>
+
+
+<a href="http://www.wunderground.com/US/TX/Weatherford.html?
+bannertypeclick=smalltemptr">
+<img src="http://weathersticker.wunderground.com/weathersticker/smalltemptr/language/
+www/US/TX/Weatherford.gif" alt="Click for Weatherford, Texas Forecast" 
+border="0" height="28" width="53" /></a>

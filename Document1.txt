@@ -1,0 +1,14 @@
+<!-- Start of StatCounter Code for Frontpage 2000 -->
+<script type="text/javascript">
+var sc_project=6168334; 
+var sc_invisible=0; 
+var sc_security="673563ff"; 
+</script>
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="tumblr visitor
+stats" href="http://statcounter.com/tumblr/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/6168334/0/673563ff/0/"
+alt="tumblr visitor stats"></a></div></noscript>
+<!-- End of StatCounter Code for Frontpage 2000 -->

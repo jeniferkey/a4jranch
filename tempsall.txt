@@ -1,0 +1,51 @@
+Port Washington, Wisconsin
+<a href="http://www.wunderground.com/US/WI/Port_Washington.html?bannertypeclick=miniStates">
+<img src="http://weathersticker.wunderground.com/weathersticker/miniStates/language/www/US/WI/Port_Washington.gif" 
+alt="Click for Port Washington, Wisconsin Forecast" border="0" height="100" width="150" /></a>
+
+Chattanooga, Tennessee
+<a href="http://www.wunderground.com/US/TN/Chattanooga.html?bannertypeclick=smalltemptr">
+<img src="http://weathersticker.wunderground.com/weathersticker/smalltemptr/language/www/US/TN/Chattanooga.gif" 
+alt="Click for Chattanooga, Tennessee Forecast" border="0" height="28" width="53" /></a>
+
+Signal Mountain, Tennessee
+<a href="http://www.wunderground.com/US/TN/Signal_Mountain.html?bannertypeclick=smalltemptr">
+<img src="http://weathersticker.wunderground.com/weathersticker/smalltemptr/language/www/US/TN/Signal_Mountain.gif" 
+alt="Click for Signal Mountain, Tennessee Forecast" border="0" height="28" width="53" /></a>
+
+Milwaukee, Wisconsin
+<a href="http://www.wunderground.com/US/WI/Milwaukee.html?bannertypeclick=smalltemptr">
+<img src="http://weathersticker.wunderground.com/weathersticker/smalltemptr/language/www/US/WI/Milwaukee.gif" 
+alt="Click for Milwaukee, Wisconsin Forecast" border="0" height="28" width="53" /></a>
+
+Fredericktown, Ohio
+<a href="http://www.wunderground.com/US/OH/Fredericktown.html?bannertypeclick=smalltemptr">
+<img src="http://weathersticker.wunderground.com/weathersticker/smalltemptr/language/www/US/OH/Fredericktown.gif" 
+alt="Click for Fredericktown, Ohio Forecast" border="0" height="28" width="53" /></a>
+
+Sao Paulo, Brazil
+<a href="http://www.wunderground.com/global/stations/83780.html?bannertypeclick=smalltemptr">
+<img src="http://weathersticker.wunderground.com/weathersticker/smalltemptr/language/www/global/stations/83780.gif" 
+alt="Click for Sao Paulo, Brazil Forecast" border="0" height="28" width="53" /></a>
+
+Mequon, Wisconsin
+<a href="http://www.wunderground.com/US/WI/Mequon.html?bannertypeclick=smalltemptr">
+<img src="http://weathersticker.wunderground.com/weathersticker/smalltemptr/language/www/US/WI/Mequon.gif" 
+alt="Click for Mequon, Wisconsin Forecast" border="0" height="28" width="53" /></a>
+
+Shreveport, Louisiana
+<a href="http://www.wunderground.com/US/LA/Shreveport.html?bannertypeclick=smalltemptr">
+<img src="http://weathersticker.wunderground.com/weathersticker/smalltemptr/language/www/US/LA/Shreveport.gif" 
+alt="Click for Shreveport, Louisiana Forecast" border="0" height="28" width="53" /></a>
+
+Joshua, Texas
+<a href="http://www.wunderground.com/US/TX/Joshua.html?bannertypeclick=smalltemptr">
+<img src="http://weathersticker.wunderground.com/weathersticker/smalltemptr/language/www/US/TX/Joshua.gif" 
+alt="Click for Joshua, Texas Forecast" border="0" height="28" width="53" /></a>
+
+Weatherford, Texas
+<a href="http://www.wunderground.com/US/TX/Weatherford.html?bannertypeclick=miniStates">
+<img src="http://weathersticker.wunderground.com/weathersticker/miniStates/language/www/US/TX/Weatherford.gif" 
+alt="Click for Weatherford, Texas Forecast" border="0" height="100" width="150" /></a>
+
+

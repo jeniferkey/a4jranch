@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+<TITLE>My Web Page</TITLE>
+</HEAD>
+<BODY>
+Welcome to my web page. The current time is <%= Time() %> 
+on <%= Date() %>.
+</BODY>
+</HTML>

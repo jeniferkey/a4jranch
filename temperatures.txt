@@ -1,0 +1,93 @@
+<center><table CELLSPACING=0 CELLPADDING=0 COLS=5 WIDTH="98%" >
+<tr>
+<td><a href="http://www.wunderground.com/US/TX/Weatherford.html">
+<img src="http://banners.wunderground.com/banner/gizmotimetemp/US/TX/Weatherford.gif"
+ alt="Click for Weatherford, Texas Forecast" height=41 width=127></a></td>
+<td>
+<center><a href="http://www.weatherford-chamber.com/"><img SRC="flagtx.gif" ALT="Click to visit the city of Weatherford, Texas" BORDER=0 height=41 width=60></a>
+<br><b><font face="Comic Sans MS"><font color="#CC0000"><font size=-2>Weatherford,Texas</font></font></font></b></center>
+</td>
+<td WIDTH="20%"></td>
+<td><a href="http://www.wunderground.com/US/WI/Port_Washington.html">
+<img src="http://banners.wunderground.com/banner/gizmotimetemp/US/WI/Port_Washington.gif"
+ alt="Click for Port Washington, Wisconsin Forecast" height=41 width=127></a></td>
+<td>
+<center><a href="http://www.ci.port-washington.wi.us/"><img SRC="flagwi.gif" ALT="Click to visit the city of Port Washinton, Wisconsin" BORDER=0 height=41 width=60></a>
+<br><b><font face="Comic Sans MS"><font color="#CC0000"><font size=-2>Port
+Washington,Wisconsin</font></font></font></b></center>
+</td>
+</tr>
+</table></center>
+<center><table BORDER=0 COLS=5 WIDTH="100%" >
+<caption><b><font face="Comic Sans MS"><font color="#CC0000">These are
+the countries of friends who visited A 4 J Ranch</font></font></b></caption>
+<tr>
+<td><a href="http://www.wunderground.com/global/stations/06120.html">
+<img src="http://banners.wunderground.com/banner/gizmotimetemp_both/language/www/global/stations/06120.gif"
+alt="Click for Middelfart, Denmark Forecast" height=41 width=127></a></td>
+<td>
+<center><a href="denmark/index.html"><img SRC="flagdk.gif" ALT="Click to visit the Denmark website" BORDER=0 height=41 width=60></a>
+<br><b><font face="Comic Sans MS"><font color="#3333FF"><font size=-2>Middelfart,Denmark</font></font></font></b></center>
+</td>
+<td WIDTH="20%"></td>
+<td><a href="http://www.wunderground.com/global/stations/33815.htm">
+<img src="http://banners.wunderground.com/banner/gizmotimetemp_both/language/www/global/stations/15090.gif"
+alt="Click for Chisinau, Republic of Moldova"  height=41 width=127></a></td>
+<td>
+<center><a href="moldova/index.html"><img SRC="flagmoldova.gif" ALT="Click to visit the Moldova website" BORDER=0 height=41 width=60></a>
+<br><b><font face="Comic Sans MS"><font color="#3333FF"><font size=-2>Chisinau,Moldova</font></font></font></b></center>
+</td>
+</tr>
+<tr>
+<td><a href="http://www.wunderground.com/global/stations/93436.html">
+<img src="http://banners.wunderground.com/banner/gizmotimetemp_both/language/www/global/stations/93436.gif"
+alt="Click for Wellington, New Zealand Forecast" height=41 width=127></a></td>
+<td>
+<center><a href="newzealand/index.html"><img SRC="flagnz.gif" ALT="Click to visit the New Zealand website" BORDER=0 height=41 width=60></a>
+<br><b><font face="Comic Sans MS"><font color="#3333FF"><font size=-2>Wellington,New
+Zealand</font></font></font></b></center>
+</td>
+<td WIDTH="20%" HEIGHT="100%"></td>
+<td><a href="http://www.wunderground.com/global/stations/02974.html">
+<img src="http://banners.wunderground.com/banner/gizmotimetemp_both/language/www/global/stations/02974.gif"
+alt="Click for Helsinki, Finland Forecast" height=41 width=127></a></td>
+<td>
+<center><a href="finland/index.html"><img SRC="flagfinland.gif" ALT="Click to visit the Finland website" BORDER=0 height=41 width=60></a>
+<br><b><font face="Comic Sans MS"><font color="#3333FF"><font size=-2>Helsinki,Finland</font></font></font></b></center>
+</td>
+</tr>
+<tr>
+<td><a href="http://www.wunderground.com/global/stations/02485.html">
+<img src="http://banners.wunderground.com/banner/gizmotimetemp_both/language/www/global/stations/02485.gif"
+alt="Click for Stockholm, Sweden Forecast" height=41 width=127></a></td>
+<td>
+<center><a href="sweden/index.html"><img SRC="flagsweden.gif" ALT="Click to visit the Sweden website" BORDER=0 height=41 width=60></a>
+<br><font face="Comic Sans MS"><font color="#3333FF"><font size=-2>Stockholm,Sweden</font></font></font></center>
+</td>
+<td WIDTH="20%"></td>
+<td><a href="http://www.wunderground.com/global/stations/12465.html">
+<img src="http://banners.wunderground.com/banner/gizmotimetemp_both/language/www/global/stations/12465.gif"
+alt="Click for Lodz, Poland Forecast" height=41 width=127></a></td>
+<td>
+<center><a href="poland/index.html"><img SRC="flagpoland.gif" ALT="Click to visit the Poland website" BORDER=0 height=41 width=60></a>
+<br><b><font face="Comic Sans MS"><font color="#3333FF"><font size=-2>Lodz,Poland</font></font></font></b></center>
+</td>
+</tr>
+<tr>
+<td><a href="http://www.wunderground.com/global/stations/17060.html">
+<img src="http://banners.wunderground.com/banner/gizmotimetemp_both/language/www/global/stations/17060.gif"
+alt="Click for Istanbul, Turkey Forecast" height=41 width=127></a></td>
+<td>
+<center><a href="turkey/index.html"><img SRC="flagturkey.gif" ALT="Click to visit the Turkey website" BORDER=0 height=41 width=60></a>
+<br><b><font face="Comic Sans MS"><font color="#3333FF"><font size=-2>Istanbul,Turkey</font></font></font></b></center>
+</td>
+<td HEIGHT="20%"></td>
+<td><a href="http://www.wunderground.com/global/stations/16066.html">
+<img src="http://banners.wunderground.com/banner/gizmotimetemp_both/language/www/global/stations/16066.gif"
+alt="Click for Milan, Italy Forecast" height=41 width=127></a></td>
+<td>
+<center><a href="italy/index.html"><img SRC="flagitaly.gif" ALT="Click to visit the Italy website" BORDER=0 height=41 width=60></a>
+<br><b><font face="Comic Sans MS"><font color="#3333FF"><font size=-2>Milan,Italy</font></font></font></b></center>
+</td>
+</tr>
+</table></center>

@@ -1,0 +1,7 @@
+http://www.wunderground.com/webcams/HCGuy/1/show.html
+
+http://icons.wunderground.com/webcamramdisk/h/c/HCGuy/1/current.jpg?1359641210
+
+http://174.102.134.101:8081/out.jpg?q=30&id=0.36150418763188113&r=1359642068921
+
+http://174.102.134.101:8081/

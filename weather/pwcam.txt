@@ -1,0 +1,18 @@
+https://www.wunderground.com/maps/radar/current/cad
+
+
+https://www.wunderground.com/maps/radar/current/law
+
+
+
+http://www.wunderground.com/radar/radblast.asp?ID=FWS&region=c3&lat=32.75916672&lon=-97.79694366&label=
+      Weatherford%2c%20TX&type=N0R&zoommode=pan&map.x=400&map.y=240&centerx=400&centery=240&prevzoom=zoom&num=
+      10&delay=50&scale=1&showlabels=1&smooth=0&noclutter=1&showstorms=0&rainsnow=0&lightning=0
+
+
+
+
+
+http://www.wunderground.com/radar/radblast.asp?ID=MKX&region=a4&lat=43.42309952&lon=-87.87809753&label=
+      Port%20Washington%2c%20WI&type=N0R&zoommode=pan&map.x=400&map.y=240&centerx=400&centery=240&prevzoom=zoom&num=
+      10&delay=50&scale=1&showlabels=1&smooth=0&noclutter=1&showstorms=0&rainsnow=0&lightning=0

@@ -1,0 +1,13 @@
+<APPLET CODE=LoadJpg.class ARCHIVE=loadjpg.jar name=NCApplet
+WIDTH=320 HEIGHT=260
+CODEBASE = http://123.456.789.44/web/>
+<PARAM NAME=FPS VALUE=30>
+<param name=ImageTransferPort value=8080>
+<param name=HashingKey value=0>
+<param name=ID value=guest>
+<param name=PASSWORD value=guest>
+<param name="VER_FLIP" value="0">
+<param name="HOR_FLIP" value="0">
+<param name="Timestamp" value="true">
+
+</APPLET>
